@@ -6,3 +6,7 @@ This notebook was designed for a kaggle data set found here: https://www.kaggle.
 #### Data
 
 The dataset contains video games that produced more than 100,000 sales scraped from http://www.vgchartz.com/. Ultimately, this leaves 16,598 records.
+
+#### Kaggle Link
+
+Public Kaggle file can be found here: https://www.kaggle.com/stokvis4/platform-manufacturers-over-time
