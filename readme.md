@@ -1,4 +1,4 @@
-# Kaggle Video Games EDA
+# Kaggle Video Games Simple EDA
 
 This notebook was designed for a kaggle data set found here: https://www.kaggle.com/gregorut/videogamesales
 
